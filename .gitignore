@@ -1,0 +1,17 @@
+# Служебные файлы Python
+__pycache__/
+*.py[cod]
+*.spec
+
+# Сборка exe (готовый файл выкладывается в GitHub Releases)
+build/
+dist/
+
+# Локальные настройки и сгенерированные обои
+config.json
+wallpaper_flakelite_*.png
+
+# Виртуальные окружения и логи
+.venv/
+venv/
+*.log
